@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# For this project
+
+# Ignore environment variables
+.env
+
+# Ignore audio files
+/audio_generations/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.envi_ai/
