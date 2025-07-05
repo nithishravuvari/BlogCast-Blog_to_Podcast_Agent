@@ -74,7 +74,8 @@ streamlit run blog_to_podcast_agent.py
 
 
 ## 📸 Snapshots
+![image](https://github.com/user-attachments/assets/21f86502-67dc-4a5d-a951-1453c3473063)
+![image](https://github.com/user-attachments/assets/1f0ea354-b09f-4e93-9881-f9de64549fd9)
+![image](https://github.com/user-attachments/assets/bb6c6232-7e29-40ad-8646-9ec2719f28a3)
 
-![blog_cast_1](https://github.com/user-attachments/assets/f20de0e3-5330-4c71-becc-157861705b97)
-![blog_cast_3](https://github.com/user-attachments/assets/1d5e8d01-2a73-4b33-b0ba-e6f96bdbbca4)
-![Screenshot (8)](https://github.com/user-attachments/assets/1d4ec578-f70e-4a80-bb93-b2b22ff7f140)
+
