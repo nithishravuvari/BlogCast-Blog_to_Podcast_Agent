@@ -1,5 +1,12 @@
 # 📰 → 🎧 BlogCast
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![LLM's](https://img.shields.io/badge/LLM-663399?style=for-the-badge&logo=openai&logoColor=white)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-2E6BEB?style=for-the-badge&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
+
 Transform any blog into an engaging podcast in minutes!
 
 BlogCast is a Streamlit-based application that converts any blog post into a podcast-style narration. It extracts blog content, summarizes it using your choice of LLM provider (OpenAI or Ollama Mistral), and then generates natural speech using Text-to-Speech.
